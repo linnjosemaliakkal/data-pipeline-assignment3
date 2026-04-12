@@ -61,8 +61,7 @@ Basic validation tests were performed to ensure:
 The application was tested locally using Streamlit. It can also be deployed using platforms like Streamlit Cloud.
 
 ## Author
-
-Anay Krishna Nambath
+Linn Jose
 
 ## License
 
